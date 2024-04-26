@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+label, input {
+  display: block;
+  margin: 1rem auto;
+}
+
+h1, label {
+  text-align: center; 
+}
+
+#btn-submit {
+  display: block;
+  margin: 1rem auto;
+}
+
+#output-message {
+  text-align: center; 
+}
